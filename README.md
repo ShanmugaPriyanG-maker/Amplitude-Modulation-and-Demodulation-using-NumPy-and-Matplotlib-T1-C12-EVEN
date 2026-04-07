@@ -19,6 +19,10 @@ Generate Message Signal: Define the message signal as a cosine wave.
 Generate Carrier Signal: Define the carrier signal as a cosine wave.
 Modulate Signal: Apply the AM formula to obtain the modulated signal.
 Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
+
+
 Output:
+<img width="630" height="470" alt="EXP7" src="https://github.com/user-attachments/assets/faa44607-8796-4869-b412-b42255b41a45" />
 
 Result:
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/91aa8ad3-2175-4250-a8f0-ea6c309cf859" />
